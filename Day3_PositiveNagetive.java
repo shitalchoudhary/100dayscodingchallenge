@@ -4,12 +4,12 @@ class PositiveNagetive
        {
            int a = -11;
             
-        if(a>0)
+        if(a>=0)
            
                {
                      System.out.println(a+"number is Positive");
                 }
-        else if(a<0)
+        else 
                   
                  {
                      System.out.println(a+"number is Negative");
