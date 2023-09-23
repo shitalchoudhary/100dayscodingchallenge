@@ -4,7 +4,7 @@ class Divisible
                             {
                              
                                     int x = 15;
-                            if(x%3==0 ^ x%7==0)
+                            if(x%3==0 || x%7==0)
                                       {
                                             
                                              System.out.println("number is Divisible");
